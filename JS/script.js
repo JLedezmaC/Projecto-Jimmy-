@@ -38,3 +38,6 @@ for(let i = 0; i < links.length; i++){
         event.currentTarget.classList.add('js-active');
     });
 }
+
+
+console.log("Autores = Karen Mendez, Juan Ignacio Campos, Jose Daniel Ramos")
